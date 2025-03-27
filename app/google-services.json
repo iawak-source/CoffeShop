@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760696119569",
+    "project_id": "project2092-4c11d",
+    "storage_bucket": "project2092-4c11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760696119569:android:5bdbb92cae15c379696cb0",
+        "android_client_info": {
+          "package_name": "com.uilover.project2092"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RIZfkE_GBldFIT5WaATgvvDj8Tia-oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
